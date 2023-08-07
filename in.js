@@ -83,7 +83,7 @@ window.open('Quotes.html', '_parent');
 });
 
 one_a.addEventListener('click',()=>{
-window.open('Articles.html', '_parent');
+window.open('https://haiderali456.github.io/Articles-Publisher/', '_parent');
 });
 
 
